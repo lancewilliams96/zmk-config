@@ -18,7 +18,7 @@
             // | ESC |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | BSPC |
             // | TAB |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
             // | CTRL |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | ALT  |
-            //                    | GUI | LWR | SPC |   | ENT | RSE  | SHFT |
+            //                    | SHFT | LWR | ENT |   | SPC | RSE  | GUI |
 
             bindings = <
 &kp ESC    &kp Q  &kp W  &kp E           &kp R  &kp T      &kp Y      &kp U  &kp I      &kp O    &kp P     &kp BSPC
@@ -33,7 +33,7 @@
             // |  ESC |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0  | BSPC |
             // | BTCLR| BT1 | BT2 | BT3 | BT4 | BT5 |   |     |     |  UP |     |     |      |
             // | CTRL | BTCLRALL |     |     |     |     |   |     | LFT | DWN | RGT |     | ALT  |
-            //                    | GUI |     | SPC |   | ENT |     | SHFT |
+            //                    | SHFT |     | ENT |   | SPC |     | GUI |
 
             bindings = <
 &kp ESC     &kp N1        &kp N2        &kp N3          &kp N4        &kp N5          &kp N6     &kp N7    &kp N8        &kp N9     &kp N0  &kp BSPC
@@ -48,7 +48,7 @@
             // |  ESC |  !  |  @  |  #  |  $  |  %  |   |  ^  |  &  |  *  |  (  |  )  | BSPC |
             // | TAB |     |     |     |     |     |   |  -  |  =  |  [  |  ]  |  \  |  `   |
             // | CTRL |     |     |     |     |     |   |  _  |  +  |  {  |  }  | "|" |  ~   |
-            //                    | GUI |     | SPC |   | ENT |     | SHFT |
+            //                    | SHFT |     | ENT |   | SPC |     | GUI |
 
             bindings = <
 &kp ESC    &kp EXCL  &kp AT  &kp HASH        &kp DLLR  &kp PRCNT    &kp CARET  &kp AMPS   &kp ASTRK  &kp LPAR  &kp RPAR  &kp BSPC
